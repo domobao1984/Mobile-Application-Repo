@@ -1,14 +1,14 @@
-# Mobile-Application-Repo
-To Develop a Mobile Intelligent Running Application
-(Intelligent weather focasting app)
+ # Mobile-Application-Repo
+1. To Develop a Mobile Intelligent Running Application
+2. (Intelligent weather focasting app)
 
 # Features
-The app can read weather accurately
-Can record real time data
-Can store user data for seven days
+1. The app can read weather accurately
+2. Can record real time data
+3. Can store user data for seven days
 
 # Requirements
-Android Studio 11
-Java 8/10/11/12
-Kotlin (Will be Optional)
-Xml
+1. Android Studio 11
+2. Java 8/10/11/12
+3. Kotlin (Will be Optional)
+4. Xml
