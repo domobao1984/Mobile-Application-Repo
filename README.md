@@ -13,8 +13,6 @@
 3. Kotlin (Will be Optional)
 4. Xml
 
-
-
 # Classwork and Assignments
 
 ## Week 1.Kick Off
@@ -22,7 +20,6 @@
 <li>To create a GitHub of my project: Github is a code hosting platform for version control and collaboration.
 <li>To write a README.md: Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
-=================================================================================================
 ## Week 2. Get started
 
 ### Codelab 1.1: Android Studio and Hello World.
@@ -35,7 +32,6 @@
 
 ![](Helloworld Assignment.png)
 
-========================================================================================
 ## Week 3. Layouts and resources for the UI
 
 ### Codelab 1.2 Part A: Your first interactive UI
@@ -56,7 +52,6 @@
 
 
 ![](HelloContraints1.png)
-=======================================================================================
 
 ## Week 4. Activities and intents
 
@@ -78,7 +73,6 @@
 ![](TwoActivities Assignment1.png)
 
 ![](TwoActivities Assignment2.png)
-========================================================================================
 
 ## Week 5. Implicit Intents
 
@@ -102,6 +96,5 @@
 
 ![](ImplicitIntents Assignment3.png)
 
-=================================================================================================
 
 
