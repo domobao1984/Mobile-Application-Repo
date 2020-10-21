@@ -86,6 +86,7 @@
 
 
 <li> Click this link to view Implicit_IntentsReciver Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Receiver
+ 
 ![](ImplicitIntents Receiver.png)
 
 <li> Click this link to view ImplicitIntents Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Homework
