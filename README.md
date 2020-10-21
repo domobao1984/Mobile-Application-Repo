@@ -26,7 +26,8 @@
 
 <li> Click this link to view Hello World Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/Helloworld_Classwork
 
-![alt text](https://github.com/domobao1984/Mobile-Application-Repo/tree/Helloworld_Classwork/img.png)
+![](https://github.com/domobao1984/Mobile-Application-Repo/tree/Helloworld_Classwork/Helloworld Classwork.png)
+
 ![](Helloworld Classwork.png)
 
 <li> Click this link to view Hello World Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloWorld_Homework
