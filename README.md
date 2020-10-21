@@ -72,6 +72,7 @@
 
 ![](TwoActivities Assignment1.png)
 
+
 ![](TwoActivities Assignment2.png)
 
 ## Week 5. Implicit Intents
