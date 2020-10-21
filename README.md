@@ -16,6 +16,8 @@ Download and open the app in Android Studio.
 
 ![](Helloworld Classwork.png)
 
+[https://github.com/domobao1984/Mobile-Application-Repo/blob/Helloworld_Classwork/Helloworld%20Classwork.png](https://github.com/domobao1984/Mobile-Application-Repo/blob/Helloworld_Classwork/Helloworld%20Classwork.png "Hello World Classwork Screenshot")
+
 
 ## Some Basic Git Commands
 
