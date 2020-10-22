@@ -27,12 +27,8 @@ Download and open the app in Android Studio.
 
 #### TwoActivities Homework Screenshots.
 
-
-![](TwoActivities Assignment1.png)
-
-![](TwoActivities Assignment2.png)
-
-
+<img src="TwoActivities Assignment1.png">
+<img src="TwoActivities Assignment2.png">
 
 ## Some Basic Git Commands
 
