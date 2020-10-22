@@ -29,6 +29,8 @@
 
 
 <li> Click this link to view Hello World Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloWorld_Homework
+![Helloworld Homework](https://user-images.githubusercontent.com/71744867/96849152-d9136700-1487-11eb-9e3f-7f19a6adbe04.png)
+
 
 ## Week 3. Layouts and resources for the UI
 
