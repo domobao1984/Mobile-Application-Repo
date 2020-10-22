@@ -1,8 +1,8 @@
 ## Hello Constraint Homework - Solution Code
 
-The Hello Toast app is a simple app that consists of three button elements and one TextView. An activity_main.xml, activity_main.xml (land), and activity_main.xml (xlarge). When the user taps the first button, it displays a short message (a Toast) on the screen. 
+The Hello Toast app is a simple app that consists of three button elements and one TextView. An activity_main.xml, activity_main.xml (land), and activity_main.xml (xlarge). When the user taps the first button, it displays a short message (a Toast) on the screen.
 
- 
+
 ## Pre-requisites
 
 For this app you should be familiar with creating and running apps in Android Studio.
@@ -37,9 +37,9 @@ This method must also change the background of the Zero button to a color other 
 
 #### HelloConstraint Homework Snapshots
 
-![](HelloContraints.png)
+![](![HelloContraints](https://user-images.githubusercontent.com/71744867/96859596-4200dc00-1494-11eb-8c15-ccc6e17a32ec.png)
 
-![](HelloContraints1.png)
+![](![HelloConstraints1](https://user-images.githubusercontent.com/71744867/96859884-a2901900-1494-11eb-8747-ae28edadde1d.png)
 
 
 ## Some Basic Git Commands
@@ -49,7 +49,7 @@ This method must also change the background of the Zero button to a color other 
 This command is used to start a new repository.
 
 <li>Usage: git init [repository name]
- 
+
 ### git clone
 
 This command is used to obtain a repository from an existing URL.
@@ -62,7 +62,7 @@ This command adds a file to the staging area.
 <li>Usage: git add [file].
 
 This command adds one or more to the staging area.
-<li>Usage: git add 
+<li>Usage: git add
 
 
 ### git commit
@@ -75,16 +75,16 @@ This command commits any files you have added with the git add command and also 
 
 <li>Usage: git commit -a  
 
- 
+
 ### git branch
 
 This command lists all the local branches in the current repository.
 
-<li>Usage: git branch 
+<li>Usage: git branch
 
 This command creates a new branch.
 
-<li>Usage: git branch [branch name] 
+<li>Usage: git branch [branch name]
 
 This command deletes the feature branch.
 
@@ -94,22 +94,22 @@ This command deletes the feature branch.
 ### git checkout
 This command is used to switch from one branch to another.
 
-<li>Usage: git checkout [branch name] 
+<li>Usage: git checkout [branch name]
 
 This command creates a new branch and also switches to it.
 
 <li>Usage: git checkout -b [branch name]
- 
+
 
 ### git push
 
 This command sends the committed changes of master branch to your remote repository.
 
 <li>Usage: git push [variable name] master
- 
+
 This command sends the branch commits to your remote repository.
 
-<li>Usage: git push [variable name] [branch] 
+<li>Usage: git push [variable name] [branch]
 
 This command pushes all branches to your remote repository.
 
@@ -117,8 +117,8 @@ This command pushes all branches to your remote repository.
 
 This command deletes a branch on your remote repository.
 
-<li>Usage: git push [variable name] :[branch name] 
-  
+<li>Usage: git push [variable name] :[branch name]
+
 
 ### git pull
 
