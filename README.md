@@ -18,15 +18,10 @@ Download and open the app in Android Studio.
 
 #### TwoActivities Classwork Screenshots
 
-![](TwoActivities Classwork1.png)
-
-![](TwoActivities Classwork2.png)
-
-![](TwoActivities Classwork3.png)
-
-![](TwoActivities Classwork4.png)
-
-
+<img src="TwoActivities Classwork1.png">
+<img src="TwoActivities Classwork2.png">
+<img src="TwoActivities Classwork3.png">
+<img src="TwoActivities Classwork4.png">
 
 ## Some Basic Git Commands
 
