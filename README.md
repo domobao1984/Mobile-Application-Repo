@@ -25,7 +25,7 @@ Download and open the app in Android Studio.
 
 ## Result 
 
-#### TwoActivities Homework Screenshots.
+#### TwoActivities Assignment Screenshots.
 
 <img src="TwoActivities Assignment1.png">
 <img src="TwoActivities Assignment2.png">
