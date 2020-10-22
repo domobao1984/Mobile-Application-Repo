@@ -14,13 +14,10 @@ Download and open the app in Android Studio.
 
 #### Hello World Classwork Screenshot
 
-![](Helloworld Classwork.png)
-
-[https://github.com/domobao1984/Mobile-Application-Repo/blob/Helloworld_Classwork/Helloworld%20Classwork.png](https://github.com/domobao1984/Mobile-Application-Repo/blob/Helloworld_Classwork/Helloworld%20Classwork.png "Hello World Classwork Screenshot")
-
+<img src="Helloworld Classwork.png">
 
 ## Some Basic Git Commands
-## <img src="Helloworld Assignment.png">
+## <img src="Helloworld Classwork.png">
 ### git init
 
 This command is used to start a new repository.
