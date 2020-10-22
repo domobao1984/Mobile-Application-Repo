@@ -16,7 +16,7 @@ Download and open the app in Android Studio.
 
 ### Hello World Homework Screenshot
 ![](Helloworld Assignment.png)
-<img src="Helloworld Assignment.png">
+
 
 
 ## Some Basic Git Commands
