@@ -1,61 +1,103 @@
- # Mobile-Application-Repo
-1. To Develop a Mobile Intelligent Running Application
-2. (Intelligent weather focasting app)
+## Hello world Homework - Solution Code
 
-# Features
-1. The app can read weather accurately
-2. Can record real time data
-3. Can store user data for seven days
+The hello world homework is a simple app created from an empty template that will allow you to add a logging statement for various log levels in the onCreate method in the main activity.
 
-# Requirements
-1. Android Studio 11
-2. Java 8/10/11/12
-3. Kotlin (Will be Optional)
-4. Xml
+## Pre-requisites
 
-# Classwork and Assignments
-
-## Week 1.Kick Off
-### Classwork:
-<li>To create a GitHub of my project: Github is a code hosting platform for version control and collaboration.
-<li>To write a README.md: Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
-
-## Week 2. Get started
-
-### Codelab 1.1: Android Studio and Hello World.
-
-<li> Click this link to view Hello World Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/Helloworld_Classwork
-![Helloworld Classwork](https://user-images.githubusercontent.com/71744867/96846504-9734f180-1484-11eb-8c5a-1a6a60ccdf15.png)
+To run this app you should be familiar with creating and running apps in Android Studio.
 
 
-<li> Click this link to view Hello World Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloWorld_Homework
-![Helloworld Homework](https://user-images.githubusercontent.com/71744867/96849152-d9136700-1487-11eb-9e3f-7f19a6adbe04.png)
+## Getting Started
+
+Download and open the app in Android Studio.
 
 
-## Week 3. Layouts and resources for the UI
+## Result
 
-### Codelab 1.2 Part A: Your first interactive UI
+### Hello World Homework Screenshot
 
-<li> Click this link to view HelloToast Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloToast
+![](Helloworld Assignment.png)
 
-### Codelab 1.2 Part B: The layout editor
 
-<li> Click this link to view HelloConstraint_Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloConstraint
+## Some Basic Git Commands
 
-## Week 4. Activities and intents
+This command is used to start a new repository.
 
-### Codelab 2.1: Activities and intents
+<li>Usage: git init [repository name]
+ 
+### git clone
 
-<li>  Click this link to view TwoActivities Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/TwoActivity_Classwork
+This command is used to obtain a repository from an existing URL.
+<li>Usage: git clone [url]
 
-<li> Click this link to view TwoActivities Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/TwoActivities_HomeWork
+### git add
 
-## Week 5. Implicit Intents
+This command adds a file to the staging area.
 
-### Codelab 2.3: Implicit Intents
+<li>Usage: git add [file].
 
-<li> Click this link to view ImplicitIntents Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/Implicit_Classwork
+This command adds one or more to the staging area.
+<li>Usage: git add 
 
-<li> Click this link to view Implicit_IntentsReciver Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Receiver
 
-<li> Click this link to view ImplicitIntents Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Homework
+### git commit
+
+This command records the file permanently in the version history.
+
+<li>Usage: git commit -m “[ Type in the commit message]”
+
+This command commits any files you have added with the git add command and also commits any files you have changed.
+
+<li>Usage: git commit -a  
+
+ 
+### git branch
+
+This command lists all the local branches in the current repository.
+
+<li>Usage: git branch 
+
+This command creates a new branch.
+
+<li>Usage: git branch [branch name] 
+
+This command deletes the feature branch.
+
+<li>Usage: git branch -d [branch name]
+
+
+### git checkout
+
+This command is used to switch from one branch to another.
+
+<li>Usage: git checkout [branch name] 
+
+This command creates a new branch and also switches to it.
+
+<li>Usage: git checkout -b [branch name]
+ 
+
+### git push
+
+This command sends the committed changes of master branch to your remote repository.
+
+<li>Usage: git push [variable name] master
+ 
+This command sends the branch commits to your remote repository.
+
+<li>Usage: git push [variable name] [branch] 
+
+This command pushes all branches to your remote repository.
+
+<li>Usage: git push –all [variable name]
+
+This command deletes a branch on your remote repository.
+
+<li>Usage: git push [variable name] :[branch name] 
+  
+
+### git pull
+
+This command fetches and merges changes on the remote server to your working directory.
+
+<li>Usage: git pull [Repository Link]
