@@ -1,103 +1,59 @@
-## Hello world Homework - Solution Code
+ # Mobile-Application-Repo
+1. To Develop a Mobile Intelligent Running Application
+2. (Intelligent weather focasting app)
 
-The hello world homework is a simple app created from an empty template that will allow you to add a logging statement for various log levels in the onCreate method in the main activity.
+# Features
+1. The app can read weather accurately
+2. Can record real time data
+3. Can store user data for seven days
 
-## Pre-requisites
+# Requirements
+1. Android Studio 11
+2. Java 8/10/11/12
+3. Kotlin (Will be Optional)
+4. Xml
 
-To run this app you should be familiar with creating and running apps in Android Studio.
+# Classwork and Assignments
 
+## Week 1.Kick Off
+### Classwork:
+<li>To create a GitHub of my project: Github is a code hosting platform for version control and collaboration.
+<li>To write a README.md: Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
-## Getting Started
+## Week 2. Get started
 
-Download and open the app in Android Studio.
+### Codelab 1.1: Android Studio and Hello World.
 
-
-## Result
-
-### Hello World Homework Screenshot
-
-![](Helloworld Assignment.png)
-
-
-## Some Basic Git Commands
-
-This command is used to start a new repository.
-
-<li>Usage: git init [repository name]
- 
-### git clone
-
-This command is used to obtain a repository from an existing URL.
-<li>Usage: git clone [url]
-
-### git add
-
-This command adds a file to the staging area.
-
-<li>Usage: git add [file].
-
-This command adds one or more to the staging area.
-<li>Usage: git add 
+<li> Click this link to view Hello World Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/Helloworld_Classwork
+![Helloworld Classwork](https://user-images.githubusercontent.com/71744867/96846504-9734f180-1484-11eb-8c5a-1a6a60ccdf15.png)
 
 
-### git commit
+<li> Click this link to view Hello World Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloWorld_Homework
 
-This command records the file permanently in the version history.
+## Week 3. Layouts and resources for the UI
 
-<li>Usage: git commit -m “[ Type in the commit message]”
+### Codelab 1.2 Part A: Your first interactive UI
 
-This command commits any files you have added with the git add command and also commits any files you have changed.
+<li> Click this link to view HelloToast Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloToast
 
-<li>Usage: git commit -a  
+### Codelab 1.2 Part B: The layout editor
 
- 
-### git branch
+<li> Click this link to view HelloConstraint_Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloConstraint
 
-This command lists all the local branches in the current repository.
+## Week 4. Activities and intents
 
-<li>Usage: git branch 
+### Codelab 2.1: Activities and intents
 
-This command creates a new branch.
+<li>  Click this link to view TwoActivities Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/TwoActivity_Classwork
 
-<li>Usage: git branch [branch name] 
+<li> Click this link to view TwoActivities Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/TwoActivities_HomeWork
 
-This command deletes the feature branch.
+## Week 5. Implicit Intents
 
-<li>Usage: git branch -d [branch name]
+### Codelab 2.3: Implicit Intents
 
+<li> Click this link to view ImplicitIntents Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/Implicit_Classwork
 
-### git checkout
+<li> Click this link to view Implicit_IntentsReciver Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Receiver
 
-This command is used to switch from one branch to another.
-
-<li>Usage: git checkout [branch name] 
-
-This command creates a new branch and also switches to it.
-
-<li>Usage: git checkout -b [branch name]
- 
-
-### git push
-
-This command sends the committed changes of master branch to your remote repository.
-
-<li>Usage: git push [variable name] master
- 
-This command sends the branch commits to your remote repository.
-
-<li>Usage: git push [variable name] [branch] 
-
-This command pushes all branches to your remote repository.
-
-<li>Usage: git push –all [variable name]
-
-This command deletes a branch on your remote repository.
-
-<li>Usage: git push [variable name] :[branch name] 
-  
-
-### git pull
-
-This command fetches and merges changes on the remote server to your working directory.
-
-<li>Usage: git pull [Repository Link]
+<li> Click this link to view ImplicitIntents Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Homework
