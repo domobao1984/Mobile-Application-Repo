@@ -19,12 +19,9 @@ Download and open the app in Android Studio.
 
 #### ImplicitIntents Homework Screenshots
 
-![](ImplicitIntents Assignment1.png)
-
-![](ImplicitIntents Assignment2.png)
-
-![](ImplicitIntents Assignment3.png)
-
+<img src="ImplicitIntents Assignment1.png">
+<img src="ImplicitIntents Assignment2.png">
+<img src="ImplicitIntents Assignment3.png">
 
 ## Some Basic Git Commands
 
