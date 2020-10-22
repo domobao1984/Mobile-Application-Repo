@@ -17,7 +17,7 @@ Download and open the app in Android Studio.
 #### ImplicitIntents Classwork Snapshots
 
 <img src="ImplicitIntents Classwork1.png">
-<img src="ImplicitIntents Classwork2.png">
+<img src="ImplicitIntents Classwork4.png">
 
 ## Some Basic Git Commands
 
