@@ -17,7 +17,6 @@ Download and open the app in Android Studio.
 <img src="Helloworld Classwork.png">
 
 ## Some Basic Git Commands
-## <img src="Helloworld Classwork.png">
 ### git init
 
 This command is used to start a new repository.
