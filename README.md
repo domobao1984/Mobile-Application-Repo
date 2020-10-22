@@ -14,9 +14,7 @@ Download and open the app in Android Studio.
 
 #### Implicit_IntentsReciver Classwork Snapshot
 
-
-![](ImplicitReceiver.png)
-
+<img src="ImplicitIntents Receiver.png">
 
 ## Some Basic Git Commands
 
