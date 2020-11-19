@@ -24,36 +24,36 @@
 
 ### Codelab 1.1: Android Studio and Hello World.
 
-<li> Click this link to view Hello World Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/Helloworld_Classwork
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/Helloworld_Classwork">Click this link to view Hello World Classwork</a>
 
-<li> Click this link to view Hello World Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloWorld_Homework
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloWorld_Homework">Click this link to view Hello World Homework</a>
 
 ## Week 3. Layouts and resources for the UI
 
 ### Codelab 1.2 Part A: Your first interactive UI
 
-<li> Click this link to view HelloToast Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloToast
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloToast">Click this link to view HelloToast Classwork</a>
 
 ### Codelab 1.2 Part B: The layout editor
 
-<li> Click this link to view HelloConstraint_Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloConstraint
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloConstraint">Click this link to view HelloConstraint_Homework</a>
 
 ## Week 4. Activities and intents
 
 ### Codelab 2.1: Activities and intents
 
-<li>  Click this link to view TwoActivities Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/TwoActivity_Classwork
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/TwoActivity_Classwork">Click this link to view TwoActivities Classwork</a>
 
-<li> Click this link to view TwoActivities Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/TwoActivities_HomeWork
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/TwoActivities_HomeWork">Click this link to view TwoActivities Homework</a>
 
 ## Week 5. Implicit Intents
 
 ### Codelab 2.3: Implicit Intents
 
-<li> Click this link to view ImplicitIntents Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/Implicit_Classwork
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/Implicit_Classwork">Click this link to view ImplicitIntents Classwork</a>
 
-<li> Click this link to view Implicit_IntentsReciver Classwork: https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Receiver
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Receiver">Click this link to view Implicit_IntentsReciver Classwork</a>
  
-<li> Click this link to view ImplicitIntents Homework: https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Homework
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Homework">Click this link to view ImplicitIntents Homework</a>
 
 
