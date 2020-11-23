@@ -69,5 +69,19 @@
 
 -	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/Checkboxes_Homework">Click the link below to view Checkboxes Homework</a>
 
+## Week 7. User Interaction
+
+### Codelab 4.4: User navigation
+
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/DriodCafe_OptionUp">Click this to view DroidCafeOptions Classwork</a>
+
+
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/TabExperiment">Click this to view Tab Experiment Classwork</a> 
+
+
+### Codelab 4.5: RecyclerView
+
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/RecyclerView_Classwork">Click this to view RecyclerView Classwork</a>
+
 
 
