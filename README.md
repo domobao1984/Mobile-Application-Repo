@@ -89,4 +89,10 @@
 
 -	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/WhoWroteIt_Classwork">Click this to view WhoWroteItLoader Classwork</a>
 
+## Week 10. Notifications
+
+### Codelab 8.1: Notifications
+
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/NotifyMe_Classwork">Click this to view Notify Me Classwork</a> 
+
 
