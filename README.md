@@ -56,4 +56,18 @@
  
 <li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/ImplicitIntent_Homework">Click this link to view ImplicitIntents Homework</a>
 
+## Week 6. User Interaction
+### Codelab 4.1: Clickable images
+
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/DroidCafe_Classwork">Click this to view Droid Cafe Classwork</a>
+ 
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/DroidCafe_Homework">Click this to view Droid Cafe Homework</a> 
+
+### Codelab 4.2: Input controls
+
+-	<a href="https:"https://github.com/domobao1984/Mobile-Application-Repo/tree/DroidCafe_Input">Click the link below to view DroidCafeInput Classwork</a> 
+
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/Checkboxes_Homework">Click the link below to view Checkboxes Homework</a>
+
+
 
