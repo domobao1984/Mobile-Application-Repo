@@ -65,7 +65,7 @@
 
 ### Codelab 4.2: Input controls
 
--	<a href="https:"https://github.com/domobao1984/Mobile-Application-Repo/tree/DroidCafe_Input">Click the link below to view DroidCafeInput Classwork</a> 
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/DroidCafe_Input">Click the link below to view DroidCafeInput Classwork</a> 
 
 -	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/Checkboxes_Homework">Click the link below to view Checkboxes Homework</a>
 
