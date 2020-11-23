@@ -83,5 +83,10 @@
 
 -	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/RecyclerView_Classwork">Click this to view RecyclerView Classwork</a>
 
+## Week 9. Background Tasks
+
+### Codelab 7.2: AsyncTask and AsyncTaskLoader
+
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/WhoWroteIt_Classwork">Click this to view WhoWroteItLoader Classwork</a>
 
 
