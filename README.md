@@ -15,5 +15,5 @@ To run this app you should be familiar with creating and running apps in Android
 
 #### NotifyMe Classwork Screenshots
 <img src="NotifyMe.PNG">
-<img src="NotifyMe.PNG1">
-<img src="NotifyMe.PNG2">
+<img src="NotifyMe1.PNG">
+<img src="NotifyMe2.PNG">
