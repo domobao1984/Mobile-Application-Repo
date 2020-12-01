@@ -18,4 +18,4 @@ To run this app you should be familiar with creating and running apps in Android
 <img src="Capture.PNG">
 <img src="Capture1.PNG">
 <img src="Capture2.PNG">
-<img src="Capture3.PNG">
+<img src="HelloSharedPrefs.PNG">
