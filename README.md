@@ -95,4 +95,7 @@
 
 -	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/NotifyMe_Classwork">Click this to view Notify Me Classwork</a> 
 
+### Codelab 9.1: Shared Preferences
+
+-	<a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/HelloSharedPrefs_Classwork">Click this to view HelloSharedPrefs Classwork</a>
 
