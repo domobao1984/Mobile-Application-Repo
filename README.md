@@ -1,6 +1,6 @@
  ## FINAL COURSE PROJECT (PRACTICAL REPORT)
  
-### COURSE: Intelligent Mobile Application
+### COURSE: Intelligent Mobile Development
 ### PROJECT NAME: Student Contact List Application
 
 ### Features
