@@ -1,7 +1,7 @@
- # FINAL COURSE PROJECT (PRACTICAL REPORT)
+ ## FINAL COURSE PROJECT (PRACTICAL REPORT)
  
-## COURSE: Intelligent Mobile Application
-## PROJECT NAME: Student Contact List Application
+### COURSE: Intelligent Mobile Application
+### PROJECT NAME: Student Contact List Application
 
 ### Features
 The project has several features, and this are:
@@ -14,16 +14,14 @@ The project has several features, and this are:
 ### Development Environment 
 <li> Android Studio 4.2
  
-## Programming Language
+### Programming Language
+<li> Java
+<li> XML
 
+### Database
+<li> SQLite
 
-# Requirements
-1. Android Studio 11
-2. Java 8/10/11/12
-3. Kotlin (Will be Optional)
-4. Xml
-
-# Classwork and Assignments
+## Classwork and Assignments
 
 ## Week 1.Kick Off
 ### Classwork:
