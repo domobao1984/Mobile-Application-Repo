@@ -4,7 +4,7 @@
 ### PROJECT NAME: Student Contact List Application
 
 ### Features
-The project has several features, and this are:
+The project has several features, and these are:
 1. Launch homepage by clicking the Run App Button
 2. Add Student Contact information.
 3. Edit and Update Student information
