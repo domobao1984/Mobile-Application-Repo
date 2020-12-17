@@ -1,9 +1,9 @@
  ## FINAL COURSE PROJECT (PRACTICAL REPORT)
  
- ### DATE OF SUBMISSION: 17th December, 2020
+#### DATE OF SUBMISSION: 17th December, 2020
  
-### COURSE: Intelligent Mobile Development
-### PROJECT NAME: Student Contact List Application
+#### COURSE: Intelligent Mobile Development
+#### PROJECT NAME: Student Contact List Application
 
 ### Features
 The project has several features, and these are:
