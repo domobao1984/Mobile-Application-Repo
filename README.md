@@ -3,7 +3,7 @@
 ## COURSE: Intelligent Mobile Application
 ## PROJECT NAME: Student Contact List Application
 
-# Features
+### Features
 The project has several features, and this are:
 1. Launch homepage by clicking the Run App Button
 2. Add Student Contact information.
@@ -11,7 +11,10 @@ The project has several features, and this are:
 4. Delete Student information
 5. A clickable url to the app GitHub.
 
-# Development Environment 
+### Development Environment 
+<li> Android Studio 4.2
+ 
+## Programming Language
 
 
 # Requirements
