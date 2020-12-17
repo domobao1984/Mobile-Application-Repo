@@ -1,11 +1,18 @@
- # Mobile-Application-Repo
-1. To Develop a Mobile Intelligent Running Application
-2. (Intelligent weather focasting app)
+ # FINAL COURSE PROJECT (PRACTICAL REPORT)
+ 
+## COURSE: Intelligent Mobile Application
+## PROJECT NAME: Student Contact List Application
 
 # Features
-1. The app can read weather accurately
-2. Can record real time data
-3. Can store user data for seven days
+The project has several features, and this are:
+1. Launch homepage by clicking the Run App Button
+2. Add Student Contact information.
+3. Edit and Update Student information
+4. Delete Student information
+5. A clickable url to the app GitHub.
+
+# Development Environment 
+
 
 # Requirements
 1. Android Studio 11
