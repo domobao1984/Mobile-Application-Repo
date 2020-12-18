@@ -26,7 +26,7 @@ The project has several features, and these are:
 ### Database
 <li> SQLite
 
-## Classwork and Assignments
+## Classwork and Homework 
 
 ## Week 1.Kick Off
 ### Classwork:
