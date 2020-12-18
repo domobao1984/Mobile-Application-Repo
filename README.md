@@ -4,6 +4,7 @@
  
 #### COURSE: Intelligent Mobile Development
 #### PROJECT NAME: Student Contact List Application
+### Project branch link: <li> <a href="https://github.com/</a>
 
 ### Features
 The project has several features, and these are:
