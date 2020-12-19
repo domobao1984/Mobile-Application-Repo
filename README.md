@@ -5,7 +5,7 @@
 #### COURSE: Intelligent Mobile Development
 
 #### PROJECT NAME: Student Contact List Application 
-<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/Final_Project_Student_Contact_List">Click this link to view Final Project Work</a>
+<li> <a href="https://github.com/domobao1984/Mobile-Application-Repo/tree/Final_Project_Student_Contact_List">Click this link to view Final Project source code</a>
 
 
 ### Features
